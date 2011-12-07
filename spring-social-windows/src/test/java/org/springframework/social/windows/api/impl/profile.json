@@ -1,0 +1,16 @@
+{
+    "id":"8c8ce076ca27823f",
+    "name":"Roberto Tamburello",
+    "first_name":"Roberto",
+    "last_name":"Tamburello",
+    "link":"http://cid-8c8ce076ca27823f.profile.live.com/",
+    "emails":{
+        "preferred":"Roberto.Tamburello@contoso.com",
+        "account":"Roberto.Tamburello@live.com",
+        "personal":"Roberto.Tamburello@contoso.com",
+        "business":"r_tamburello@example.com"
+    },
+    "birth_day":20,
+    "birth_month":4,
+    "birth_year":2010
+}
