@@ -1,0 +1,6 @@
+
+/spring-social-windows/out/production/spring-social-windows/org/springframework/social/windows/connect/WindowsLiveServiceProvider.class
+/spring-social-windows/out/production/spring-social-windows/org/springframework/social/windows/connect/WindowsLiveAdapter.class
+*.iws
+*.iml
+*.ipr
